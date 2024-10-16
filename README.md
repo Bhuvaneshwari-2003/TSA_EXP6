@@ -4,7 +4,7 @@
 
 
 ### AIM:
-
+To create and implement Holt Winter's Method Model using python.
 ### ALGORITHM:
 1. You import the necessary libraries
 2. You load a CSV file containing daily sales data into a DataFrame, parse the 'date' column as
