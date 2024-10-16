@@ -68,9 +68,11 @@ pred.plot(legend=True, label='prediction')
 
 ### OUTPUT:
 SALES PLOT :
+
 ![image](https://github.com/user-attachments/assets/c409af15-1f34-464f-831a-1d054d291b4a)
 
 SEASONAL DECOMPOSING (ADDITIVE) :
+
 ![image](https://github.com/user-attachments/assets/15e893fe-1afa-412f-92be-ced7f8c570ac)
 
 
@@ -80,10 +82,9 @@ TEST_PREDICTION
 
 
 FINAL_PREDICTION
+
 ![image](https://github.com/user-attachments/assets/a1f3b9d9-1eba-4679-bde0-a17aa21bdf24)
 
-RESULT :
-Thus, the program run successfully based on the Holt Winter's Method model.
 
 ### RESULT:
 Thus the program run successfully based on the Holt Winters Method model.
